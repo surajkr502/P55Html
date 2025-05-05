@@ -1,0 +1,24 @@
+#head1{
+    color: aquamarine;
+    text-decoration: underline;
+    text-decoration: line-through;
+    text-decoration: overline;
+    border-width: 1px;
+    border-style: solid;
+    border-color: pink;
+    padding: 10px;
+    padding-left: 100px;
+    margin: 100px;
+}
+.head2{
+    color: rgb(20, 10, 10);
+    background-color: rgb(241, 230, 230);
+    text-decoration: double;
+    font-style: italic;
+    font: weight 500;
+    word-spacing:10px;
+    letter-spacing: 10px;
+    border: 1px pink solid;
+    padding: 0px 0px 10px 10px;
+
+}
